@@ -183,4 +183,4 @@ http://127.0.0.1:5000/
 
 For questions,  
 visit the Contact page in the app or email:
-sunkumukesh@gmail.com
+omkarvr90@gmail.com
